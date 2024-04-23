@@ -1,0 +1,28 @@
+print karne ka syntax- 
+console.log("jo bhi cheez likhi ho");
+
+
+comment syntax-
+
+// this is a comment
+
+
+datatypes-
+string- sequence of characters
+"kljljlkjlk"
+
+number-
+1894
+
+string + string = stringstring => concatention
+number + number = number
+
+
+all javascipt datatypes (7)
+
+conditional operators
+== -Homework
+=== - Equals
+!== - Not Equals
+
+if-elseif-else
